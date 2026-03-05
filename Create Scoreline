@@ -1,0 +1,5 @@
+Team1 = input("What team is first?")
+Team2 = input("What team is second?")
+Team1Score = int(input("How much did " + Team1 + " score?"))
+Team2Score = int(input("How much did " + Team2 + " score?"))
+print(Team1, Team1Score, "-", Team2Score, Team2)
